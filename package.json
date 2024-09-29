@@ -1,5 +1,5 @@
 {
-    "name": "ShiraoriBOT-Md",
+    "name": "wagiru",
     "version": "0.5.1",
     "description": "Simple Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
@@ -20,19 +20,18 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+    "homepage": "https://github.com/DeaGaWaras/kaoruko_based_v1",
     "author": {
-        "name": "Ilman"
+        "name": "DeaGaWaras"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ilmanhdyt/ShiraoriBOT-Md.git"
+        "url": "git+https://github.com/DeaGaWaras/kaoruko_based_v1.git"
     },
     "bugs": {
-        "url": "https://github.com/ilmanhdyt/ShiraoriBOT-Md/issues"
+        "url": "https://github.com/DeaGaWaras/kaoruko_based_v1/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
